@@ -1,0 +1,7 @@
+{
+  "name": "QRGenius Pro",
+  "description": "A professional-grade QR code generator with multi-tier subscription plans. Convert text, images, and videos into high-quality, customizable QR codes with brand logos and custom styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
